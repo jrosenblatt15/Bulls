@@ -1,0 +1,21 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 10px solid red;
+    margin: 10px;
+    background-image: url("../../Labrador-Retriever-MP.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 100%;
+    display: inline-block;
+}
+
+.faceone {
+    border: 5px dashed orangered;
+}
+.facetwo {
+    border: 20px orange;
+}
+.facethree {
+    border: 15px orangered;
+}
