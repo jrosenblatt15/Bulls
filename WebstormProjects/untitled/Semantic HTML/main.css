@@ -1,0 +1,33 @@
+html{
+    background-color: aliceblue;
+}
+body{
+    width: 80%;
+    margin: 0 auto;
+    background-color: darkgray;
+}
+h1{
+    font-family: "Helvetica Neue";
+    font-size: 2rem;
+    text-align: center;
+    margin: 0 auto;
+}
+nav {
+    box-sizing: border-box;
+    width: 25%;
+    padding-top: 5px;
+    border: 2px dashed red;
+}
+section {
+    border: 2px dashed black;
+    display: inline-block;
+}
+h2{
+    font-family: "Helvetica Neue";
+    font-size: 1.5rem;
+    border: darkgray;
+    text-align: center;
+}
+aside{
+    text-align: right;
+}
