@@ -1,0 +1,13 @@
+    ul{
+        flex-flow: row nowrap;
+        justify-content: space-around;
+        min-height: 50px;
+    }
+    div2{
+        background-size: cover;
+        background-repeat: no-repeat;
+
+    }
+    a{
+        padding: 5px;
+    }

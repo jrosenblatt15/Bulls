@@ -1,0 +1,6 @@
+header, article, aside, footer {
+    padding: 8px;
+}
+aside{
+    width: 50%;
+}

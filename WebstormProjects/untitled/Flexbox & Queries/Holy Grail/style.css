@@ -1,0 +1,15 @@
+header{
+        background-color: lightblue;
+    }
+article{
+    background-color: gray;
+}
+.Aside1{
+    background-color: skyblue;
+}
+.Aside2{
+    background-color: darkblue;
+}
+footer {
+    background-color: cornflowerblue;
+}

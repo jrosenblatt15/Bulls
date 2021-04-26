@@ -1,0 +1,15 @@
+    ul{
+        list-style: none;
+        background-color: lightblue;
+        align-items: center;
+    }
+    a{
+        text-decoration: none;
+        padding: 20px 0;
+        color: white;
+        text-align: center;
+        border: 2px white;
+    }
+    a:hover{
+        background-color: lightgray;
+    }
